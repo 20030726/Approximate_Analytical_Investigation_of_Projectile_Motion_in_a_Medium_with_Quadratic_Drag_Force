@@ -1,4 +1,4 @@
-# Finite-Difference-Method-Estimation-Quadratic-drag-coefficient
+# Approximate Analytical Investigation of Projectile Motion in a Medium with Quadratic Drag Force
 
 This project implements the **Finite Difference Method** to estimate the quadratic drag coefficient in 2D projectile motion.
 
@@ -10,4 +10,4 @@ This project implements the **Finite Difference Method** to estimate the quadrat
 The objective of this project is to estimate the quadratic drag coefficient by applying the Finite Difference Method. The system models 2D projectile motion, and the Unscented Kalman Filter (UKF) is used to update the state estimates based on observed data.
 
 ## Requirements
-- MATLAB (version R2023b or later)
+- MATLAB (version R2023a or later)
